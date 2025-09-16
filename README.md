@@ -59,11 +59,11 @@ Schools are moving fast on AI—but security, privacy, and equity risks are real
 
 ---
 
-## Roadmap
-- v1.1: Add vendor due-diligence checklist + procurement clauses
-- v2.0: Add monitoring/metrics pack + training materials
+## Incident Response – At a Glance (Mermaid)
 
----
-
-## License
-Released under the **MIT License** (see `LICENSE`).
+```mermaid
+flowchart TD
+  A[Identification] --> B[Containment]
+  B --> C[Eradication]
+  C --> D[Recovery]
+  D --> E[Lessons Learned]
