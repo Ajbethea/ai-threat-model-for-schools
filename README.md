@@ -32,14 +32,20 @@ Schools are moving fast on AI—but security, privacy, and equity risks are real
 
 ```yaml
 policy:
-  name: AI Usage Policy
-  version: 1.0
+  name: "AI Usage Policy"
+  version: "1.0"
   prohibited:
     - entering student PII
     - using unapproved consumer AI tools
   acceptable:
     - lesson planning
     - supervised student research
+  safeguards:
+    - district IT must approve all AI tools
+    - staff must complete annual AI/privacy training
+    - comply with FERPA and state laws
+```
+
 - **Phase 4 – Incident Response Playbook**
   - `Phase4_Incident_Response_Playbook.pdf` (playbook)
   - `Phase4_Incident_Response_Playbook.docx` (editable)
