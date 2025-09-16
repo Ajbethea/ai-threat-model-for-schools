@@ -1,4 +1,3 @@
-# ai-threat-model-for-schools
 # AI Threat Model for Schools – Master Toolkit (v1.0)
 
 A district-ready, end-to-end cybersecurity & governance toolkit to help K–12 schools adopt AI safely, ethically, and in compliance with student privacy laws.
@@ -65,14 +64,6 @@ Schools are moving fast on AI—but security, privacy, and equity risks are real
 - v2.0: Add monitoring/metrics pack + training materials
 
 ---
-## Incident Response – At a Glance (Mermaid)
-```mermaid
-flowchart TD
-  A[Identification] --> B[Containment]
-  B --> C[Eradication]
-  C --> D[Recovery] 
-  D --> E[Lessons Learned]
-
 
 ## License
 Released under the **MIT License** (see `LICENSE`).
