@@ -27,6 +27,19 @@ Schools are moving fast on AI—but security, privacy, and equity risks are real
   - `Phase3_AI_Usage_Policy_Infographic.png` (1-pager)
   - `Phase3_AI_Usage_Policy_Carousel.pdf` (slide-style)
   - `Phase3_AI_Usage_Policy.pptx` (16:9 deck)
+
+## AI Usage Policy – YAML Example
+
+```yaml
+policy:
+  name: AI Usage Policy
+  version: 1.0
+  prohibited:
+    - entering student PII
+    - using unapproved consumer AI tools
+  acceptable:
+    - lesson planning
+    - supervised student research
 - **Phase 4 – Incident Response Playbook**
   - `Phase4_Incident_Response_Playbook.pdf` (playbook)
   - `Phase4_Incident_Response_Playbook.docx` (editable)
